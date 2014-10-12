@@ -1,0 +1,27 @@
+{
+  "name": "nesh-history-search",
+  "version": "0.0.1",
+  "description": "Search thorugh history with ctl-r",
+  "main": "search.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suor/nesh-history-search"
+  },
+  "bugs": {
+    "url": "https://github.com/Suor/nesh-history-search/issues"
+  },
+  "keywords": [
+    "nesh",
+    "plugin",
+    "history",
+    "search"
+  ],
+  "author": {
+    "name": "Alexander Schepanovski",
+    "email": "suor.web@gmail.com"
+  },
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
