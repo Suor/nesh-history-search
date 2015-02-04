@@ -8,12 +8,15 @@ Installation
 ------------
 
 ```bash
+npm install -g nesh
 nesh --enable nesh-history-search
 ```
 
 
 Usage
 -----
+
+Run `nesh` (or `nesh -c` for CoffeeScript).
 
 Hit `Ctrl-R` and start typing, hit any non-printable key to exit search mode.
 The key would be also passed to shell, so you can hit `Enter` to execute current command.
