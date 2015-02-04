@@ -1,7 +1,7 @@
 {
   "name": "nesh-history-search",
   "version": "0.0.1",
-  "description": "Search thorugh history with ctl-r",
+  "description": "Search through history with Ctrl-R",
   "main": "search.js",
   "repository": {
     "type": "git",
