@@ -1,7 +1,7 @@
 nesh-history-search
 ===================
 
-Search through your nesh history with `Ctrl-R`. Bash-like.
+Search through your [nesh](http://danielgtaylor.github.io/nesh/) history with `Ctrl-R`. Bash-like.
 
 
 Installation
